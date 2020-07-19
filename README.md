@@ -1,8 +1,8 @@
 ### Hi there 👋
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fkuharan%2Fkuharan)
 
-- 🔭 I’m currently working on Python.
-- 📚 I’m currently learning Automations!
+- 🔭 I’m currently working on Automations.
+- 📚 I’m currently learning Full Stack Dev!
 - 👯 I’m looking to collaborate on open source projects.
 - 🤔 I’m looking for help with my one of open source project idea.
 - 💬 Ask me about Planets and outer space.
