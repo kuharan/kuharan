@@ -8,4 +8,4 @@
 - 💬 Ask me about Planets and outer space.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/kuharan/), [Medium](https://medium.com/@kuharan), [Email](kuharan.bhowmik@gmail.com), [Github](https://github.com/kuharan/) 
 - 😄 Pronouns: HE/HIM/HIS
-- ⚡ Fun fact: Peanuts aren’t technically nuts. Ok Bye.
+- ⚡ Fun fact: Life is short, you need Python!
