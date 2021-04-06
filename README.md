@@ -5,10 +5,10 @@
   <br>
 </div>
 
-![](https://visitor-badge.glitch.me/badge?page_id=kuharan.kuharan)
-  
 - 🤖 I’m currently working on Automations.
 - 🚧 I’m looking to collaborate on open source projects.
 - 💬 Ask me about Planets and outer space.
 - 📑 This is my technical diary - [Medium](https://medium.com/@kuharan)
 - 📭 How to reach me - [Linkedin](https://www.linkedin.com/in/kuharan/)
+
+![](https://visitor-badge.glitch.me/badge?page_id=kuharan.kuharan)
