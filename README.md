@@ -10,5 +10,4 @@
 - 💬 Ask me about Planets and outer space.
 - 📑 This is my technical diary - [Medium](https://medium.com/@kuharan)
 - 📭 How to reach me - [Linkedin](https://www.linkedin.com/in/kuharan/)
-
-![](https://visitor-badge.glitch.me/badge?page_id=kuharan.kuharan)
+- ✅ My profile visitors - ![](https://visitor-badge.glitch.me/badge?page_id=kuharan.kuharan)
