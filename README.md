@@ -7,5 +7,5 @@
 - 🤖 I’m currently working on Automations.
 - 🚧 I’m looking to collaborate on open source projects.
 - 💬 Ask me about Planets and outer space.
-- 📑 This is my technical diary - [Medium](kuharan.medium.com)
+- 📑 This is my technical diary - [Medium](https://kuharan.medium.com/)
 - 📭 How to reach me - [Linkedin](https://www.linkedin.com/in/kuharan/)
