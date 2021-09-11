@@ -4,7 +4,7 @@
 <br>
 
 
-- 🤖 I’m currently working on Automations.
+- 🤖 I’m currently working on multiple document convertion to PDF in AWS using lambda, S3, docker and ECR.
 - 🚧 I’m looking to collaborate on open source projects.
 - 💬 Ask me about Planets and outer space.
 - 📑 This is my technical diary - [Medium](https://kuharan.medium.com/)
