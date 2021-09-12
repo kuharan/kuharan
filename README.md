@@ -11,4 +11,3 @@
 - 📭 How to reach me - [Linkedin](https://www.linkedin.com/in/kuharan/)
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kuharan&show_icons=true&theme=tokyonight)
-)
