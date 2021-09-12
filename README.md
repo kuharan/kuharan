@@ -9,3 +9,6 @@
 - 💬 Ask me about Planets and outer space.
 - 📑 This is my technical diary - [Medium](https://kuharan.medium.com/)
 - 📭 How to reach me - [Linkedin](https://www.linkedin.com/in/kuharan/)
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kuharan&show_icons=true&theme=tokyonight)
+)
