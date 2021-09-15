@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kuharan&label=Profile%20views&color=0e75b6&style=flat" alt="kuharan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kuharan" alt="kuharan" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kuharan&theme=onedark" alt="kuharan" /></a> </p>
 
 - 🔭 I’m currently working on **Azure Data Factory, Databricks, AWS Lambda**
 
