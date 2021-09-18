@@ -13,10 +13,6 @@
 
 - 📝 I regularly write articles on [https://kuharan.medium.com/](https://kuharan.medium.com/)
 
-- 💬 Ask me about **python, pyspark, azure data factory**
-
-- 📫 How to reach me **LinkedIN**
-
 ### Medium Blogs and Youtube posts
 <!-- BLOG-POST-LIST:START -->
 - [How to dockerize Python Pytesseract for AWS Lambda using Elastic Container Registry](https://medium.com/analytics-vidhya/how-to-dockerize-python-pytesseract-for-aws-lambda-using-elastic-container-registry-752a651edecd?source=rss-471f406f5ef6------2)
