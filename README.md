@@ -19,6 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to dockerize Python Pytesseract for AWS Lambda using Elastic Container Registry](https://medium.com/analytics-vidhya/how-to-dockerize-python-pytesseract-for-aws-lambda-using-elastic-container-registry-752a651edecd?source=rss-471f406f5ef6------2)
+- [Generate ‘No Backup’ Reports with Python and AWS Lambda](https://aws.plainenglish.io/how-to-generate-no-backup-reports-for-microfocus-dataprotector-using-python-1dcc417bda07?source=rss-471f406f5ef6------2)
+- [How to Close or Resolve ServiceNow Incidents Automatically](https://python.plainenglish.io/how-to-close-resolve-servicenow-incidents-automatically-62a7cfb4baf8?source=rss-471f406f5ef6------2)
+- [Top 10 Python Tips for your Job](https://medium.com/analytics-vidhya/top-10-python-tips-for-your-job-dc2e11bcae4?source=rss-471f406f5ef6------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
