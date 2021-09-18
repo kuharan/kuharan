@@ -19,10 +19,14 @@
 
 ### Medium Blogs and Youtube posts
 <!-- BLOG-POST-LIST:START -->
+- [How to dockerize Python Pytesseract for AWS Lambda using Elastic Container Registry](https://medium.com/analytics-vidhya/how-to-dockerize-python-pytesseract-for-aws-lambda-using-elastic-container-registry-752a651edecd?source=rss-471f406f5ef6------2)
+- [Generate ‘No Backup’ Reports with Python and AWS Lambda](https://aws.plainenglish.io/how-to-generate-no-backup-reports-for-microfocus-dataprotector-using-python-1dcc417bda07?source=rss-471f406f5ef6------2)
+- [How to Close or Resolve ServiceNow Incidents Automatically](https://python.plainenglish.io/how-to-close-resolve-servicenow-incidents-automatically-62a7cfb4baf8?source=rss-471f406f5ef6------2)
 - [COVID-19 CASES INDIA (29-Apr-2021)](https://www.youtube.com/watch?v=tCfg1rhdees)
 - [Covid-19 INDIA | Active Counts | Updated on 20 Mar 21](https://www.youtube.com/watch?v=75WGtwkDRnA)
+- [Top 10 Python Tips for your Job](https://medium.com/analytics-vidhya/top-10-python-tips-for-your-job-dc2e11bcae4?source=rss-471f406f5ef6------2)
+- [Migrate SQL DB to MySQL using a CSV file](https://medium.com/nerd-for-tech/migrate-sql-db-to-mysql-using-a-csv-file-7cbcaea984cf?source=rss-471f406f5ef6------2)
 - [Covid-19 Active Cases - India Updated - 03 Dec 20](https://www.youtube.com/watch?v=zng3oVH5KUM)
-- [Covid19 Active Cases by State - India Updated (18 Sep 20)](https://www.youtube.com/watch?v=4OsD4NkrYyI)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
