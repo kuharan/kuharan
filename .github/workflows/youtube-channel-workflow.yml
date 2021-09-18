@@ -1,7 +1,5 @@
 name: Latest Youtube Videos workflow
-on: 
-    schedule:
-        - cron: '0 * * * *'
+on: push
 jobs: 
     update-readme-with-youtube: 
         name: Update this repo's README with latest videos
