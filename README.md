@@ -17,17 +17,13 @@
 
 - 📫 How to reach me **LinkedIN**
 
-### Blogs posts
+### Medium Blogs and Youtube posts
 <!-- BLOG-POST-LIST:START -->
 - [COVID-19 CASES INDIA (29-Apr-2021)](https://www.youtube.com/watch?v=tCfg1rhdees)
 - [Covid-19 INDIA | Active Counts | Updated on 20 Mar 21](https://www.youtube.com/watch?v=75WGtwkDRnA)
 - [Covid-19 Active Cases - India Updated - 03 Dec 20](https://www.youtube.com/watch?v=zng3oVH5KUM)
 - [Covid19 Active Cases by State - India Updated (18 Sep 20)](https://www.youtube.com/watch?v=4OsD4NkrYyI)
 <!-- BLOG-POST-LIST:END -->
-
-### YOUTUBE posts
-<!-- YOUTUBE-POST-LIST:START -->
-<!-- YOUTUBE-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
