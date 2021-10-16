@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kuharan&theme=onedark" alt="kuharan" /></a> </p>
 
-- 🔭 I’m currently working on **Azure Data Factory, Databricks, AWS Lambda**
+- 🔭 I’m currently working on **Azure Data Factory, Databricks, AWS Lambda, ECS, Fargate, Docker**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
