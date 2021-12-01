@@ -15,6 +15,7 @@
 
 ### Medium Blogs and Youtube posts
 <!-- BLOG-POST-LIST:START -->
+- [Convert word  to pdf using AWS Lambda](https://medium.com/analytics-vidhya/convert-word-to-pdf-using-aws-lambda-cb111be0d685?source=rss-471f406f5ef6------2)
 - [Covid19 Active Cases India Update - 27 Sep 21](https://www.youtube.com/watch?v=-vtlm0JooWs)
 - [How to dockerize Python Pytesseract for AWS Lambda using Elastic Container Registry](https://medium.com/analytics-vidhya/how-to-dockerize-python-pytesseract-for-aws-lambda-using-elastic-container-registry-752a651edecd?source=rss-471f406f5ef6------2)
 - [Generate ‘No Backup’ Reports with Python and AWS Lambda](https://aws.plainenglish.io/how-to-generate-no-backup-reports-for-microfocus-dataprotector-using-python-1dcc417bda07?source=rss-471f406f5ef6------2)
@@ -26,7 +27,6 @@
 - [Covid-19 Active Cases - India Updated - 03 Dec 20](https://www.youtube.com/watch?v=zng3oVH5KUM)
 - [Perform N2WS CPM One-Click Recovery in AWS Lambda](https://aws.plainenglish.io/performing-n2ws-cpm-one-click-recovery-in-aws-lambda-e858bf9e2718?source=rss-471f406f5ef6------2)
 - [Couchbase + Python Environment in Windows](https://python.plainenglish.io/couchbase-python-environment-in-windows-7a384293cf93?source=rss-471f406f5ef6------2)
-- [Rotate CloudEndure Access Keys for an IAM user in Multiple Accounts!](https://medium.com/nerd-for-tech/rotate-cloudendure-access-keys-for-an-iam-user-in-multiple-accounts-b21563d23d0d?source=rss-471f406f5ef6------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
