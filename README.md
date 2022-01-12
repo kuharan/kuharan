@@ -15,18 +15,18 @@
 
 ### Medium Blogs and Youtube posts
 <!-- BLOG-POST-LIST:START -->
+- [Notes from my Engineering Diary](https://kuharan.medium.com/notes-from-my-engineering-diary-e91e91fda79d?source=rss-471f406f5ef6------2)
+- [Convert word  to pdf using AWS Lambda](https://medium.com/analytics-vidhya/convert-word-to-pdf-using-aws-lambda-cb111be0d685?source=rss-471f406f5ef6------2)
 - [Covid19 Active Cases India Update - 27 Sep 21](https://www.youtube.com/watch?v=-vtlm0JooWs)
+- [How to dockerize Python Pytesseract for AWS Lambda using Elastic Container Registry](https://medium.com/analytics-vidhya/how-to-dockerize-python-pytesseract-for-aws-lambda-using-elastic-container-registry-752a651edecd?source=rss-471f406f5ef6------2)
+- [Generate ‘No Backup’ Reports with Python and AWS Lambda](https://aws.plainenglish.io/how-to-generate-no-backup-reports-for-microfocus-dataprotector-using-python-1dcc417bda07?source=rss-471f406f5ef6------2)
+- [How to Close or Resolve ServiceNow Incidents Automatically](https://python.plainenglish.io/how-to-close-resolve-servicenow-incidents-automatically-62a7cfb4baf8?source=rss-471f406f5ef6------2)
 - [COVID-19 CASES INDIA &lpar;29-Apr-2021&rpar;](https://www.youtube.com/watch?v=tCfg1rhdees)
 - [Covid-19 INDIA | Active Counts | Updated on 20 Mar 21](https://www.youtube.com/watch?v=75WGtwkDRnA)
+- [Top 10 Python Tips for your Job](https://medium.com/analytics-vidhya/top-10-python-tips-for-your-job-dc2e11bcae4?source=rss-471f406f5ef6------2)
+- [Migrate SQL DB to MySQL using a CSV file](https://medium.com/nerd-for-tech/migrate-sql-db-to-mysql-using-a-csv-file-7cbcaea984cf?source=rss-471f406f5ef6------2)
 - [Covid-19 Active Cases - India Updated - 03 Dec 20](https://www.youtube.com/watch?v=zng3oVH5KUM)
-- [Covid19 Active Cases by State - India Updated &lpar;18 Sep 20&rpar;](https://www.youtube.com/watch?v=4OsD4NkrYyI)
-- [Covid-19 Confirmed Cases - Country Wise | Update &lpar; 2020-09-18 &rpar;](https://www.youtube.com/watch?v=NmXpz1O9BmY)
-- [Coronavirus confirmed cases in India | Do you need another lockdown ? - Update of 27 Jul 20.](https://www.youtube.com/watch?v=lUZAkJIWSP0)
-- [Coronavirus - Confirmed cases by country - Update 27-07-2020](https://www.youtube.com/watch?v=kYeirlvucqM)
-- [Covid-19 Chart : Whats the current status? &lpar;July 2020 Update&rpar;](https://www.youtube.com/watch?v=WZo1DXwFcSc)
-- [Covid-19 State wise Rate of Positivity Report | India](https://www.youtube.com/watch?v=55PHZn8NAhs)
-- [Coronavirus Confirmed Cases by Country - Racing Bar Chart](https://www.youtube.com/watch?v=49BbR02EGyc)
-- [Coronavirus Deaths by Country - Racing Bar Chart](https://www.youtube.com/watch?v=meE6VvpbpIw)
+- [Perform N2WS CPM One-Click Recovery in AWS Lambda](https://aws.plainenglish.io/performing-n2ws-cpm-one-click-recovery-in-aws-lambda-e858bf9e2718?source=rss-471f406f5ef6------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
