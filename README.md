@@ -7,11 +7,7 @@
 
 - 🔭 I’m currently working on **Azure Data Factory, Databricks, AWS Lambda, ECS, Fargate, Docker**
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
-
 - 👨‍💻 All of my projects are available at [https://github.com/kuharan?tab=repositories](https://github.com/kuharan?tab=repositories)
-
-- 📝 I regularly write articles on [https://kuharan.medium.com/](https://kuharan.medium.com/)
 
 ### Medium Blogs and Youtube posts
 <!-- BLOG-POST-LIST:START -->
