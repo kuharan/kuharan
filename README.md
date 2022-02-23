@@ -1,13 +1,21 @@
 <h1 align="center">Hi 👋, I'm Kuharan Bhowmik</h1>
 <h3 align="center">A passionate AWS and Azure Cloud developer from India</h3>
 
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kuharan&label=Profile%20views&color=0e75b6&style=flat" alt="kuharan" /> </p>
 
+___
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kuharan&theme=onedark" alt="kuharan" /></a> </p>
+
+___
 
 - 🔭 I’m currently working on **Azure Data Factory, Databricks, AWS Lambda, ECS, Fargate, Docker**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kuharan?tab=repositories](https://github.com/kuharan?tab=repositories)
+
+___
 
 ### Medium Blogs and Youtube posts
 <!-- BLOG-POST-LIST:START -->
@@ -25,11 +33,15 @@
 - [Perform N2WS CPM One-Click Recovery in AWS Lambda](https://aws.plainenglish.io/performing-n2ws-cpm-one-click-recovery-in-aws-lambda-e858bf9e2718?source=rss-471f406f5ef6------2)
 <!-- BLOG-POST-LIST:END -->
 
+___
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kuharan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kuharan" height="30" width="40" /></a>
 <a href="https://medium.com/@kuharan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kuharan" height="30" width="40" /></a>
 </p>
+
+___
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="" target="_blank"> <img src="https://static.wikia.nocookie.net/logopedia/images/2/2c/Microsoft_Power_BI_%282020%29.svg/revision/latest/scale-to-width-down/96?cb=20200929195935" alt="powerBI" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kuharan&show_icons=true&locale=en&theme=tokyonight" alt="kuharan" /></p>
