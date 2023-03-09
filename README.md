@@ -19,6 +19,7 @@ ___
 
 ### Medium Blogs and Youtube posts
 <!-- BLOG-POST-LIST:START -->
+- [Building Resilient Data Pipelines with PySpark and Azure Data Factory: Lessons from Real-World…](https://medium.com/analytics-vidhya/building-resilient-data-pipelines-with-pyspark-and-azure-data-factory-lessons-from-real-world-f56ce834d1b9?source=rss-471f406f5ef6------2)
 - [How to handle AWS Lambda timeout issues](https://kuharan.medium.com/how-to-handle-aws-lambda-timeout-issues-24025f4714d8?source=rss-471f406f5ef6------2)
 - [10 Python Snippets You Can Use to Convert to PDF](https://python.plainenglish.io/10-crazy-python-snippets-you-can-use-to-convert-to-pdf-23c574f61491?source=rss-471f406f5ef6------2)
 - [Notes from my Engineering Diary](https://aws.plainenglish.io/notes-from-my-engineering-diary-e91e91fda79d?source=rss-471f406f5ef6------2)
@@ -32,7 +33,6 @@ ___
 - [Top 10 Python Tips for your Job](https://medium.com/analytics-vidhya/top-10-python-tips-for-your-job-dc2e11bcae4?source=rss-471f406f5ef6------2)
 - [Migrate SQL DB to MySQL using a CSV file](https://medium.com/nerd-for-tech/migrate-sql-db-to-mysql-using-a-csv-file-7cbcaea984cf?source=rss-471f406f5ef6------2)
 - [Covid-19 Active Cases - India Updated - 03 Dec 20](https://www.youtube.com/watch?v=zng3oVH5KUM)
-- [Perform N2WS CPM One-Click Recovery in AWS Lambda](https://aws.plainenglish.io/performing-n2ws-cpm-one-click-recovery-in-aws-lambda-e858bf9e2718?source=rss-471f406f5ef6------2)
 - [Covid19 Active Cases by State - India Updated &lpar;18 Sep 20&rpar;](https://www.youtube.com/watch?v=4OsD4NkrYyI)
 <!-- BLOG-POST-LIST:END -->
 
