@@ -19,7 +19,7 @@ ___
 
 ### Medium Blogs and Youtube posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Resilient Data Pipelines with PySpark and Azure Data Factory: Lessons from Real-World…](https://medium.com/analytics-vidhya/building-resilient-data-pipelines-with-pyspark-and-azure-data-factory-lessons-from-real-world-f56ce834d1b9?source=rss-471f406f5ef6------2)
+- [Building Resilient Data Pipelines with PySpark and Azure Data Factory: Lessons from Real-World…](https://towardsdev.com/building-resilient-data-pipelines-with-pyspark-and-azure-data-factory-lessons-from-real-world-f56ce834d1b9?source=rss-471f406f5ef6------2)
 - [How to handle AWS Lambda timeout issues](https://kuharan.medium.com/how-to-handle-aws-lambda-timeout-issues-24025f4714d8?source=rss-471f406f5ef6------2)
 - [10 Python Snippets You Can Use to Convert to PDF](https://python.plainenglish.io/10-crazy-python-snippets-you-can-use-to-convert-to-pdf-23c574f61491?source=rss-471f406f5ef6------2)
 - [Notes from my Engineering Diary](https://aws.plainenglish.io/notes-from-my-engineering-diary-e91e91fda79d?source=rss-471f406f5ef6------2)
