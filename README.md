@@ -19,6 +19,7 @@ ___
 
 ### Medium Blogs and Youtube posts
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to Azure Databricks | Slideshow | For Beginners](https://www.youtube.com/watch?v=ow7gxetl_BY)
 - [Introduction to Azure Data Factory | Slideshow | For Beginners](https://www.youtube.com/watch?v=BDvIZarN-PU)
 - [Building Resilient Data Pipelines with Azure Data bricks and Azure Data Factory](https://www.youtube.com/watch?v=aD-mmVhpHBI)
 - [Building Resilient Data Pipelines with PySpark and Azure Data Factory: Lessons from Real-World…](https://towardsdev.com/building-resilient-data-pipelines-with-pyspark-and-azure-data-factory-lessons-from-real-world-f56ce834d1b9?source=rss-471f406f5ef6------2)
@@ -33,7 +34,6 @@ ___
 - [COVID-19 CASES INDIA &lpar;29-Apr-2021&rpar;](https://www.youtube.com/watch?v=tCfg1rhdees)
 - [Covid-19 INDIA | Active Counts | Updated on 20 Mar 21](https://www.youtube.com/watch?v=75WGtwkDRnA)
 - [Top 10 Python Tips for your Job](https://medium.com/analytics-vidhya/top-10-python-tips-for-your-job-dc2e11bcae4?source=rss-471f406f5ef6------2)
-- [Migrate SQL DB to MySQL using a CSV file](https://medium.com/nerd-for-tech/migrate-sql-db-to-mysql-using-a-csv-file-7cbcaea984cf?source=rss-471f406f5ef6------2)
 <!-- BLOG-POST-LIST:END -->
 
 ___
