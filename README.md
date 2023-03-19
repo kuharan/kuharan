@@ -19,6 +19,7 @@ ___
 
 ### Medium Blogs and Youtube posts
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to Azure Logic Apps | Slideshow | For Beginners](https://www.youtube.com/watch?v=SvTwbpcDivg)
 - [Introduction to Azure Databricks | Slideshow | For Beginners](https://www.youtube.com/watch?v=ow7gxetl_BY)
 - [Introduction to Azure Data Factory | Slideshow | For Beginners](https://www.youtube.com/watch?v=BDvIZarN-PU)
 - [Building Resilient Data Pipelines with Azure Data bricks and Azure Data Factory](https://www.youtube.com/watch?v=aD-mmVhpHBI)
@@ -33,7 +34,6 @@ ___
 - [How to Close or Resolve ServiceNow Incidents Automatically](https://python.plainenglish.io/how-to-close-resolve-servicenow-incidents-automatically-62a7cfb4baf8?source=rss-471f406f5ef6------2)
 - [COVID-19 CASES INDIA &lpar;29-Apr-2021&rpar;](https://www.youtube.com/watch?v=tCfg1rhdees)
 - [Covid-19 INDIA | Active Counts | Updated on 20 Mar 21](https://www.youtube.com/watch?v=75WGtwkDRnA)
-- [Top 10 Python Tips for your Job](https://medium.com/analytics-vidhya/top-10-python-tips-for-your-job-dc2e11bcae4?source=rss-471f406f5ef6------2)
 <!-- BLOG-POST-LIST:END -->
 
 ___
