@@ -19,6 +19,7 @@ ___
 
 ### Medium Blogs and Youtube posts
 <!-- BLOG-POST-LIST:START -->
+- [The rise of Chat GPT | What is Chat GPT | Easy - Slideshow](https://www.youtube.com/watch?v=yc1aMSOOz7M)
 - [Introduction to Azure Logic Apps | Slideshow | For Beginners](https://www.youtube.com/watch?v=SvTwbpcDivg)
 - [Introduction to Azure Databricks | Slideshow | For Beginners](https://www.youtube.com/watch?v=ow7gxetl_BY)
 - [Introduction to Azure Data Factory | Slideshow | For Beginners](https://www.youtube.com/watch?v=BDvIZarN-PU)
@@ -33,7 +34,6 @@ ___
 - [Generate ‘No Backup’ Reports with Python and AWS Lambda](https://aws.plainenglish.io/how-to-generate-no-backup-reports-for-microfocus-dataprotector-using-python-1dcc417bda07?source=rss-471f406f5ef6------2)
 - [How to Close or Resolve ServiceNow Incidents Automatically](https://python.plainenglish.io/how-to-close-resolve-servicenow-incidents-automatically-62a7cfb4baf8?source=rss-471f406f5ef6------2)
 - [COVID-19 CASES INDIA &lpar;29-Apr-2021&rpar;](https://www.youtube.com/watch?v=tCfg1rhdees)
-- [Covid-19 INDIA | Active Counts | Updated on 20 Mar 21](https://www.youtube.com/watch?v=75WGtwkDRnA)
 <!-- BLOG-POST-LIST:END -->
 
 ___
