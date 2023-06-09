@@ -19,21 +19,21 @@ ___
 
 ### Medium Blogs and Youtube posts
 <!-- BLOG-POST-LIST:START -->
-- [Databricks — Mastering Delta Tables: Unleashing the Power of Column Names with Spaces](https://kuharan.medium.com/databricks-mastering-delta-tables-unleashing-the-power-of-column-names-with-spaces-55f18c0c22bc?source=rss-471f406f5ef6------2)
 - [Introduction to Azure Data Lake Storage | Slideshow | For Beginners](https://www.youtube.com/watch?v=aRrqDRwq5NY)
 - [The rise of Chat GPT | What is Chat GPT | Easy - Slideshow](https://www.youtube.com/watch?v=yc1aMSOOz7M)
 - [Introduction to Azure Logic Apps | Slideshow | For Beginners](https://www.youtube.com/watch?v=SvTwbpcDivg)
 - [Introduction to Azure Databricks | Slideshow | For Beginners](https://www.youtube.com/watch?v=ow7gxetl_BY)
 - [Introduction to Azure Data Factory | Slideshow | For Beginners](https://www.youtube.com/watch?v=BDvIZarN-PU)
 - [Building Resilient Data Pipelines with Azure Data bricks and Azure Data Factory](https://www.youtube.com/watch?v=aD-mmVhpHBI)
-- [Building Resilient Data Pipelines with PySpark and Azure Data Factory: Lessons from Real-World…](https://towardsdev.com/building-resilient-data-pipelines-with-pyspark-and-azure-data-factory-lessons-from-real-world-f56ce834d1b9?source=rss-471f406f5ef6------2)
-- [How to handle AWS Lambda timeout issues](https://kuharan.medium.com/how-to-handle-aws-lambda-timeout-issues-24025f4714d8?source=rss-471f406f5ef6------2)
-- [10 Python Snippets You Can Use to Convert to PDF](https://python.plainenglish.io/10-crazy-python-snippets-you-can-use-to-convert-to-pdf-23c574f61491?source=rss-471f406f5ef6------2)
-- [Notes from my Engineering Diary](https://aws.plainenglish.io/notes-from-my-engineering-diary-e91e91fda79d?source=rss-471f406f5ef6------2)
-- [Convert word  to pdf using AWS Lambda](https://medium.com/analytics-vidhya/convert-word-to-pdf-using-aws-lambda-cb111be0d685?source=rss-471f406f5ef6------2)
 - [Covid19 Active Cases India Update - 27 Sep 21](https://www.youtube.com/watch?v=-vtlm0JooWs)
-- [How to dockerize Python Pytesseract for AWS Lambda using Elastic Container Registry](https://medium.com/analytics-vidhya/how-to-dockerize-python-pytesseract-for-aws-lambda-using-elastic-container-registry-752a651edecd?source=rss-471f406f5ef6------2)
-- [Generate ‘No Backup’ Reports with Python and AWS Lambda](https://aws.plainenglish.io/how-to-generate-no-backup-reports-for-microfocus-dataprotector-using-python-1dcc417bda07?source=rss-471f406f5ef6------2)
+- [COVID-19 CASES INDIA &lpar;29-Apr-2021&rpar;](https://www.youtube.com/watch?v=tCfg1rhdees)
+- [Covid-19 INDIA | Active Counts | Updated on 20 Mar 21](https://www.youtube.com/watch?v=75WGtwkDRnA)
+- [Covid-19 Active Cases - India Updated - 03 Dec 20](https://www.youtube.com/watch?v=zng3oVH5KUM)
+- [Covid19 Active Cases by State - India Updated &lpar;18 Sep 20&rpar;](https://www.youtube.com/watch?v=4OsD4NkrYyI)
+- [Covid-19 Confirmed Cases - Country Wise | Update &lpar; 2020-09-18 &rpar;](https://www.youtube.com/watch?v=NmXpz1O9BmY)
+- [Coronavirus confirmed cases in India | Do you need another lockdown ? - Update of 27 Jul 20.](https://www.youtube.com/watch?v=lUZAkJIWSP0)
+- [Coronavirus - Confirmed cases by country - Update 27-07-2020](https://www.youtube.com/watch?v=kYeirlvucqM)
+- [Covid-19 Chart : Whats the current status? &lpar;July 2020 Update&rpar;](https://www.youtube.com/watch?v=WZo1DXwFcSc)
 <!-- BLOG-POST-LIST:END -->
 
 ___
