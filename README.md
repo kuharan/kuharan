@@ -19,6 +19,7 @@ ___
 
 ### Medium Blogs and Youtube posts
 <!-- BLOG-POST-LIST:START -->
+- [Bengal Story: West Bengal’s Fading Legacy and Current Struggles](https://kuharan.medium.com/bengal-story-west-bengals-fading-legacy-and-current-struggles-fa349462c01c?source=rss-471f406f5ef6------2)
 - [From Aliens to Millennials: Exploring America’s Fascination and India’s Potential](https://kuharan.medium.com/from-aliens-to-millennials-exploring-americas-fascination-and-india-s-potential-3874848a0356?source=rss-471f406f5ef6------2)
 - [Databricks — Mastering Delta Tables: Unleashing the Power of Column Names with Spaces](https://kuharan.medium.com/databricks-mastering-delta-tables-unleashing-the-power-of-column-names-with-spaces-55f18c0c22bc?source=rss-471f406f5ef6------2)
 - [Introduction to Azure Data Lake Storage | Slideshow | For Beginners](https://www.youtube.com/watch?v=aRrqDRwq5NY)
@@ -33,7 +34,6 @@ ___
 - [Notes from my Engineering Diary](https://aws.plainenglish.io/notes-from-my-engineering-diary-e91e91fda79d?source=rss-471f406f5ef6------2)
 - [Convert word  to pdf using AWS Lambda](https://medium.com/analytics-vidhya/convert-word-to-pdf-using-aws-lambda-cb111be0d685?source=rss-471f406f5ef6------2)
 - [Covid19 Active Cases India Update - 27 Sep 21](https://www.youtube.com/watch?v=-vtlm0JooWs)
-- [How to dockerize Python Pytesseract for AWS Lambda using Elastic Container Registry](https://medium.com/analytics-vidhya/how-to-dockerize-python-pytesseract-for-aws-lambda-using-elastic-container-registry-752a651edecd?source=rss-471f406f5ef6------2)
 <!-- BLOG-POST-LIST:END -->
 
 ___
