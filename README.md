@@ -19,6 +19,7 @@ ___
 
 ### Medium Blogs and Youtube posts
 <!-- BLOG-POST-LIST:START -->
+- [Turning Delta Tables into CSV: Your Ultimate How-To Guide!](https://kuharan.medium.com/turning-delta-tables-into-csv-your-ultimate-how-to-guide-be5fa63183da?source=rss-471f406f5ef6------2)
 - [Automating EC2 System Shutdown with Bash Script if the docker container is idle](https://kuharan.medium.com/automating-ec2-system-shutdown-with-bash-script-if-the-docker-container-is-idle-48840d12f46d?source=rss-471f406f5ef6------2)
 - [Bengal Story: West Bengal’s Fading Legacy and Current Struggles](https://kuharan.medium.com/bengal-story-west-bengals-fading-legacy-and-current-struggles-fa349462c01c?source=rss-471f406f5ef6------2)
 - [From Aliens to Millennials: Exploring America’s Fascination and India’s Potential](https://kuharan.medium.com/from-aliens-to-millennials-exploring-americas-fascination-and-india-s-potential-3874848a0356?source=rss-471f406f5ef6------2)
@@ -33,7 +34,6 @@ ___
 - [How to handle AWS Lambda timeout issues](https://kuharan.medium.com/how-to-handle-aws-lambda-timeout-issues-24025f4714d8?source=rss-471f406f5ef6------2)
 - [10 Python Snippets You Can Use to Convert to PDF](https://python.plainenglish.io/10-crazy-python-snippets-you-can-use-to-convert-to-pdf-23c574f61491?source=rss-471f406f5ef6------2)
 - [Notes from my Engineering Diary](https://aws.plainenglish.io/notes-from-my-engineering-diary-e91e91fda79d?source=rss-471f406f5ef6------2)
-- [Convert word  to pdf using AWS Lambda](https://medium.com/analytics-vidhya/convert-word-to-pdf-using-aws-lambda-cb111be0d685?source=rss-471f406f5ef6------2)
 <!-- BLOG-POST-LIST:END -->
 
 ___
