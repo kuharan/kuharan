@@ -19,6 +19,8 @@ ___
 
 ### Medium Blogs and Youtube posts
 <!-- BLOG-POST-LIST:START -->
+- [Automate Your Naukri.com Search with Python in Easy Way](https://www.youtube.com/watch?v=lSMZLCYXJgA)
+- [Automate Your Naukri Profile with Python and Selenium](https://kuharan.medium.com/automate-your-naukri-profile-with-python-and-selenium-2ef81b333f03?source=rss-471f406f5ef6------2)
 - [Turning Delta Tables into CSV: Your Ultimate How-To Guide!](https://kuharan.medium.com/turning-delta-tables-into-csv-your-ultimate-how-to-guide-be5fa63183da?source=rss-471f406f5ef6------2)
 - [Automating EC2 System Shutdown with Bash Script if the docker container is idle](https://kuharan.medium.com/automating-ec2-system-shutdown-with-bash-script-if-the-docker-container-is-idle-48840d12f46d?source=rss-471f406f5ef6------2)
 - [Bengal Story: West Bengal’s Fading Legacy and Current Struggles](https://kuharan.medium.com/bengal-story-west-bengals-fading-legacy-and-current-struggles-fa349462c01c?source=rss-471f406f5ef6------2)
@@ -32,8 +34,6 @@ ___
 - [Building Resilient Data Pipelines with Azure Data bricks and Azure Data Factory](https://www.youtube.com/watch?v=aD-mmVhpHBI)
 - [Building Resilient Data Pipelines with PySpark and Azure Data Factory: Lessons from Real-World…](https://towardsdev.com/building-resilient-data-pipelines-with-pyspark-and-azure-data-factory-lessons-from-real-world-f56ce834d1b9?source=rss-471f406f5ef6------2)
 - [How to handle AWS Lambda timeout issues](https://kuharan.medium.com/how-to-handle-aws-lambda-timeout-issues-24025f4714d8?source=rss-471f406f5ef6------2)
-- [10 Python Snippets You Can Use to Convert to PDF](https://python.plainenglish.io/10-crazy-python-snippets-you-can-use-to-convert-to-pdf-23c574f61491?source=rss-471f406f5ef6------2)
-- [Notes from my Engineering Diary](https://aws.plainenglish.io/notes-from-my-engineering-diary-e91e91fda79d?source=rss-471f406f5ef6------2)
 <!-- BLOG-POST-LIST:END -->
 
 ___
