@@ -19,6 +19,7 @@ ___
 
 ### Medium Blogs and Youtube posts
 <!-- BLOG-POST-LIST:START -->
+- [jiohotstar.com taken !! How to find alternative domain names ?](https://www.youtube.com/watch?v=rnB0R6Xm11w)
 - [Climbing the Tech Ladder: Mastering High Salary &amp; Negotiation Skills](https://www.youtube.com/watch?v=qT0f8UWGCUQ)
 - [Automate Your Naukri.com Search with Python in Easy Way](https://www.youtube.com/watch?v=lSMZLCYXJgA)
 - [Automate Your Naukri Profile with Python and Selenium](https://kuharan.medium.com/automate-your-naukri-profile-with-python-and-selenium-2ef81b333f03?source=rss-471f406f5ef6------2)
@@ -33,7 +34,6 @@ ___
 - [Introduction to Azure Databricks | Slideshow | For Beginners](https://www.youtube.com/watch?v=ow7gxetl_BY)
 - [Introduction to Azure Data Factory | Slideshow | For Beginners](https://www.youtube.com/watch?v=BDvIZarN-PU)
 - [Building Resilient Data Pipelines with Azure Data bricks and Azure Data Factory](https://www.youtube.com/watch?v=aD-mmVhpHBI)
-- [Building Resilient Data Pipelines with PySpark and Azure Data Factory: Lessons from Real-World…](https://towardsdev.com/building-resilient-data-pipelines-with-pyspark-and-azure-data-factory-lessons-from-real-world-f56ce834d1b9?source=rss-471f406f5ef6------2)
 <!-- BLOG-POST-LIST:END -->
 
 ___
