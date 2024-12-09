@@ -19,6 +19,7 @@ ___
 
 ### Medium Blogs and Youtube posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering ChatGPT: Top 5 Tips for Writing Effective Prompts!](https://www.youtube.com/watch?v=tAvTXpdCx8U)
 - [jiohotstar.com taken !! How to find alternative domain names ?](https://www.youtube.com/watch?v=rnB0R6Xm11w)
 - [Climbing the Tech Ladder: Mastering High Salary &amp; Negotiation Skills](https://www.youtube.com/watch?v=qT0f8UWGCUQ)
 - [Automate Your Naukri.com Search with Python in Easy Way](https://www.youtube.com/watch?v=lSMZLCYXJgA)
@@ -33,7 +34,6 @@ ___
 - [Introduction to Azure Logic Apps | Slideshow | For Beginners](https://www.youtube.com/watch?v=SvTwbpcDivg)
 - [Introduction to Azure Databricks | Slideshow | For Beginners](https://www.youtube.com/watch?v=ow7gxetl_BY)
 - [Introduction to Azure Data Factory | Slideshow | For Beginners](https://www.youtube.com/watch?v=BDvIZarN-PU)
-- [Building Resilient Data Pipelines with Azure Data bricks and Azure Data Factory](https://www.youtube.com/watch?v=aD-mmVhpHBI)
 <!-- BLOG-POST-LIST:END -->
 
 ___
