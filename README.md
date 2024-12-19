@@ -19,6 +19,7 @@ ___
 
 ### Medium Blogs and Youtube posts
 <!-- BLOG-POST-LIST:START -->
+- [Boost Your Delta Lake Performance AutoOptimizeWrite Option](https://www.youtube.com/watch?v=bDq4Z8Kdkyg)
 - [Mastering ChatGPT: Top 5 Tips for Writing Effective Prompts!](https://www.youtube.com/watch?v=tAvTXpdCx8U)
 - [jiohotstar.com taken !! How to find alternative domain names ?](https://www.youtube.com/watch?v=rnB0R6Xm11w)
 - [Climbing the Tech Ladder: Mastering High Salary &amp; Negotiation Skills](https://www.youtube.com/watch?v=qT0f8UWGCUQ)
@@ -33,7 +34,6 @@ ___
 - [The rise of Chat GPT | What is Chat GPT | Easy - Slideshow](https://www.youtube.com/watch?v=yc1aMSOOz7M)
 - [Introduction to Azure Logic Apps | Slideshow | For Beginners](https://www.youtube.com/watch?v=SvTwbpcDivg)
 - [Introduction to Azure Databricks | Slideshow | For Beginners](https://www.youtube.com/watch?v=ow7gxetl_BY)
-- [Introduction to Azure Data Factory | Slideshow | For Beginners](https://www.youtube.com/watch?v=BDvIZarN-PU)
 <!-- BLOG-POST-LIST:END -->
 
 ___
