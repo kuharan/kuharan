@@ -19,7 +19,7 @@ ___
 
 ### Medium Blogs and Youtube posts
 <!-- BLOG-POST-LIST:START -->
-- [How a Small Team from Kolkata Helped Microsoft Fix a Bug in Azure Data Factory](https://medium.com/nerd-for-tech/how-a-small-team-from-kolkata-helped-microsoft-fix-a-bug-in-azure-data-factory-362a17208ae2?source=rss-471f406f5ef6------2)
+- [How a Small Team from Kolkata Helped Microsoft Fix a Bug in Azure Data Factory](https://kuharan.medium.com/how-a-small-team-from-kolkata-helped-microsoft-fix-a-bug-in-azure-data-factory-362a17208ae2?source=rss-471f406f5ef6------2)
 - [Boost Your Delta Lake Performance AutoOptimizeWrite Option !!](https://www.youtube.com/watch?v=bDq4Z8Kdkyg)
 - [Mastering ChatGPT: Top 5 Tips for Writing Effective Prompts!](https://www.youtube.com/watch?v=tAvTXpdCx8U)
 - [jiohotstar.com taken !! How to find alternative domain names ?](https://www.youtube.com/watch?v=rnB0R6Xm11w)
