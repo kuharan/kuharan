@@ -19,6 +19,7 @@ ___
 
 ### Medium Blogs and Youtube posts
 <!-- BLOG-POST-LIST:START -->
+- [Data Engineering with Databricks and Real-World Challenges — Part 1](https://kuharan.medium.com/data-engineering-with-databricks-and-real-world-challenges-part-1-b284528b170c?source=rss-471f406f5ef6------2)
 - [How a Small Team from Kolkata Helped Microsoft Fix a Bug in Azure Data Factory](https://kuharan.medium.com/how-a-small-team-from-kolkata-helped-microsoft-fix-a-bug-in-azure-data-factory-362a17208ae2?source=rss-471f406f5ef6------2)
 - [Boost Your Delta Lake Performance AutoOptimizeWrite Option !!](https://www.youtube.com/shorts/bDq4Z8Kdkyg)
 - [Mastering ChatGPT: Top 5 Tips for Writing Effective Prompts!](https://www.youtube.com/watch?v=tAvTXpdCx8U)
@@ -33,7 +34,6 @@ ___
 - [Databricks — Mastering Delta Tables: Unleashing the Power of Column Names with Spaces](https://kuharan.medium.com/databricks-mastering-delta-tables-unleashing-the-power-of-column-names-with-spaces-55f18c0c22bc?source=rss-471f406f5ef6------2)
 - [Introduction to Azure Data Lake Storage | Slideshow | For Beginners](https://www.youtube.com/watch?v=aRrqDRwq5NY)
 - [The rise of Chat GPT | What is Chat GPT | Easy - Slideshow](https://www.youtube.com/watch?v=yc1aMSOOz7M)
-- [Introduction to Azure Logic Apps | Slideshow | For Beginners](https://www.youtube.com/watch?v=SvTwbpcDivg)
 <!-- BLOG-POST-LIST:END -->
 
 ___
